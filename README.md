@@ -1,7 +1,7 @@
 <h1 align="center">👑『BOT⭕CDY』👑</h1>
 
 <p align="center">
- <img src= "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwEyPc2ZcSJLv1nKjMoNcqTD_PZl1Zk9ujraVrJSEw_efKhnurC6XGA6VOj73W-ygzfgfou1-g_3EzCX41BCiLXPvTjcIUy4BL78F9l9MuQlWAIg4E3DjO-Kx-qO-yIIhkOyeYaqDeyx8MW4EusFhzDUqID_Pk2RRUWhDfHErCquK71DBo9v4BhRjtXBNt/s736/b63bb3b9-7464-494f-937f-9aa4394cb124.jpg">
+ <img src= "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwEyPc2ZcSJLv1nKjMoNcqTD_PZl1Zk9ujraVrJSEw_efKhnurC6XGA6VOj73W-ygzfgfou1-g_3EzCX41BCiLXPvTjcIUy4BL78F9l9MuQlWAIg4E3DjO-Kx-qO-yIIhkOyeYaqDeyx8MW4EusFhzDUqID_Pk2RRUWhDfHErCquK71DBo9v4BhRjtXBNt/s736/b63bb3b9-7464-494f-937f-9aa4394cb124.pg">
 </p>
 
 <div align="center">
@@ -216,18 +216,18 @@ href="https://www.youtube.com/watch?v=SYbEOZZ__Wo"><img src="https://github.com/
 
 </a>
 <a href="https://github.com/00" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-    <img src="https://github.com/Aq.pn" width="130" height="130" alt="Neykoor💜" style="border-radius: 50%;"/>
+    <img src="https://gitb.com/Aq.pn" width="130" height="130" alt="Neykoor💜" style="border-radius: 50%;"/>
 </a>
 
-<a href="https://github.com/DevAlexJs" style="display:inline-block; text-decoration: none;">
-    <img src="https://github.com/DevAlexJs.png" width="130" height="130" alt="Alex-X" style="border-radius: 50%;"/>
+<a href="https://gitb.com/DevAlexJs" style="display:inline-block; text-decoration: none;">
+    <img src="https://githucom/DevAlexJs.png" width="130" height="130" alt="Alex-X" style="border-radius: 50%;"/>
 </a>
-<a href="https://github.com/David-Chian" style="display:inline-block; margin-right: 10px; text-decoration: none;">
+<a href="https://githubm/David-Chian" style="display:inline-block; margin-right: 10px; text-decoration: none;">
     <img src="https://github.com/David-Chian.png" width="130" height="130" alt="David-Chian" style="border-radius: 50%;"/>
 </a>
 </a>
-<a href="https://github.com/The-King-Destroy" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-    <img src="https://github.com/The-King-Destroy.png" width="130" height="130" alt="ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜" style="border-radius: 50%;"/>
+<a href="https://github.com/The-K-Destroy" style="display:inline-block; margin-right: 10px; text-decoration: none;">
+    <img src="https://githcom/The-King-Destroy.png" width="130" height="130" alt="ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜" style="border-radius: 50%;"/>
 </a>
 
 
