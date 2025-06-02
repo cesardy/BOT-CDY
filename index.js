@@ -43,7 +43,7 @@ console.log(chalk.bold.cyan('\n════════════════�
 console.log(chalk.bold.white('               👽BIENVENIDO A  BOT⭕CDY 👽 '))
 console.log(chalk.bold.cyan('═══════════════════════════════════════════════════════════'))
 
-say('Bot⭕CDY', {
+say('BOT-CDY', {
   font: 'block',
   align: 'center',
   colors: ['magentaBright']
