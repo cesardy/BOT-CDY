@@ -40,7 +40,7 @@ git clone https://github.com/cesardy/BOT-CDY
 ```
 
 ```bash
-cd Rembot
+cd BOT-CDY
 ```
 
 ```bash
