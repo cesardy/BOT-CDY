@@ -11,13 +11,13 @@ Bot con más de 300 comandos 👑
 **Grupo OFC**
 
 
-[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/E9j3js91NjYAYQvGW6Et2T)
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://[https://whatsapp.com/channel/0029Vb5TRBP60eBjTF83qp0h)
 
 
 
 **canal OFC**
 
-[![](https://img.shields.io/badge/WhatsApp%20Canal-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VapASNA9cDDT9yfhXr30)
+[![](https://img.shields.io/badge/WhatsApp%20Canal-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb5TRBP60eBjTF83qp0h)
 
 
 # Contactame
@@ -25,12 +25,12 @@ Bot con más de 300 comandos 👑
 
 **Owner 1**
 
-[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+527421168105)
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/)
 
 
 **Owner 2**
 
-[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+34613772401)
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/)
 
 
 ## Instalación por Cloud Shell
