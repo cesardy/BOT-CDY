@@ -1,4 +1,4 @@
-# Bienvenido al repositorio OFC de Rembot 😸❤️
+# Bienvenido al repositorio OFC de CHAE 😸❤️
 
 Si gustas un bot para tu grupo puedes hablar con mi owner 🐢 
 
@@ -36,7 +36,7 @@ Bot con más de 300 comandos 👑
 ## Instalación por Cloud Shell
 
 ```bash
-git clone https://github.com/TOBI-12/Rembot
+git clone https://github.com/cesardy/BOT-CDY
 ```
 
 ```bash
